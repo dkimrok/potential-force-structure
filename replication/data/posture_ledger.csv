@@ -1,0 +1,67 @@
+year,posture,criterion,decisive_events,csis_events,nuclear_tests,ballistic_launches,sources
+1958,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+1959,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+1960,L,L-b,30 Jul: ROK destroyer sinks a DPRK patrol vessel in the first post-armistice naval clash; at least 14 DPRK crew killed,1,0,0,CSIS
+1961,P,P,CSIS events 0; ballistic missiles/SLVs 0,0,0,0,CSIS; NTI
+1962,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+1963,L,L-a,29-30 Jul: DMZ ambush (two U.S. soldiers killed) and follow-up clash (one U.S. soldier and one ROK policeman killed),1,0,0,CSIS; FRUS
+1964,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+1965,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+1966,L,L-a,"2 Nov: two DMZ ambushes kill six U.S. soldiers, one KATUSA, and two ROK soldiers",2,0,0,CSIS; Bolger
+1967,L,L-a,"DMZ ambushes and barracks bombing kill U.S. and ROK soldiers and police (e.g., 22 May, 10 Aug, 28 Aug)",18,0,0,CSIS
+1968,L,L-c,21 Jan Blue House raid targeting the president; Jan Pueblo seizure; DMZ ambushes; Oct-Nov Uljin-Samcheok landings,17,0,0,CSIS; CRS
+1969,L,L-a,15 Mar DMZ fire kills a U.S. soldier; 18 Mar raid kills a ROK policeman; 15 Apr EC-121 shot down (31 U.S. killed),7,0,0,CSIS; CRS
+1970,L,L-a,29 Jun sea battle near Yeongheung Island; two ROK policemen and one militiaman killed,7,0,0,CSIS
+1971,L,L-a,16 Aug DMZ firefights; two ROK soldiers killed,4,0,0,CSIS
+1972,P,P,CSIS events 0; ballistic missiles/SLVs 0,0,0,0,CSIS; NTI
+1973,L,L-a,7 Mar DPRK gunfire kills two ROK soldiers on a DMZ work detail,1,0,0,CSIS
+1974,L,L-c,15 Aug assassination attempt on President Park (First Lady killed); 28 Jun coast-guard vessel sunk with crew; 20 Nov tunnel booby trap kills U.S. and ROK officers,5,0,0,CSIS; CRS
+1975,L,L-a,Sep Gochang interception; two ROK soldiers killed (CRS; CSIS reports four wounded),4,0,0,CRS; CSIS
+1976,L,L-a,18 Aug Panmunjom axe murders kill two U.S. officers; Jun DMZ encounters kill ROK soldiers,2,0,0,CSIS; CRS
+1977,L,L-a,14 Jul U.S. Army CH-47 shot down after straying north of the MDL; three U.S. soldiers killed,0,0,0,"KWE; AP (Deseret News, 30 Dec 1994)"
+1978,L,L-a,28 Apr firefight with an infiltration boat off Yeosu; one ROK seaman killed,3,0,0,CSIS
+1979,L,L-a,21 Jul gun battle with a spy vessel off Namhae; two ROK soldiers killed,1,0,0,CSIS
+1980,L,L-a,Dec: three DPRK agents intercepted off the South Gyeongsang coast near Namhae; two ROK soldiers killed and two wounded,4,0,0,CRS
+1981,P,P,CSIS events 1; ballistic missiles/SLVs 0; infiltrators killed (CRS),1,0,0,CSIS; NTI; CRS
+1982,P,P,CSIS events 0; ballistic missiles/SLVs 0; one infiltrator killed (CRS),0,0,0,CSIS; NTI; CRS
+1983,L,L-c,9 Oct Rangoon bombing targeting President Chun; 17 ROK officials killed,5,0,0,CSIS; CRS
+1984,L,L-a,23 Nov Panmunjom firefight after a Soviet defection; one ROK soldier killed,5,0,6,CSIS
+1985,P,P,CSIS events 2; ballistic missiles/SLVs 0; spy ship sunk; no ROK deaths,2,0,0,CSIS; NTI
+1986,L,L-c,"14 Sep Gimpo airport bombing; five killed (attributed to North Korea by ROK police, as reported by CRS)",2,0,1,CSIS; CRS
+1987,L,L-c,29 Nov KAL 858 bombing; 115 killed,2,0,0,CSIS; CRS
+1988,P,P,CSIS events 0; ballistic missiles/SLVs 0,0,0,0,CSIS; NTI
+1989,P,P,CSIS events 0; ballistic missiles/SLVs 0,0,0,0,CSIS; NTI
+1990,P,P,CSIS events 3; ballistic missiles/SLVs 2,3,0,2,CSIS; NTI
+1991,P,P,CSIS events 2; ballistic missiles/SLVs 1,2,0,1,CSIS; NTI
+1992,P,P,CSIS events 2; ballistic missiles/SLVs 1; 22 May three DPRK infiltrators killed in ROK uniforms; ROK soldiers wounded,2,0,1,CSIS; NTI
+1993,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 4; CSIS events 3,3,0,4,CSIS; NTI
+1994,L,L-a,17 Dec U.S. Army OH-58 shot down after straying north; one U.S. pilot killed,3,0,0,CSIS; KWE
+1995,L,L-a,"24 Oct Buyeo counter-infiltration operation (one DPRK agent killed, one captured); two ROK policemen killed by the agents' gunfire",4,0,0,CRS; Yonhap (24 Feb 2017)
+1996,L,L-a,Sep-Nov Gangneung submarine infiltration; ROK military personnel and civilians killed in the manhunt,10,0,0,CSIS; CRS
+1997,P,P,"CSIS events 4; ballistic missiles/SLVs 0; Feb defector Lee Han-young shot (one killed, below L-c threshold); DMZ exchanges without deaths",4,0,0,CSIS; NTI
+1998,T,T-events,nuclear tests 0; ballistic missiles/SLVs 1; CSIS events 5; Jun midget-submarine crew found dead (no engagement); Dec semi-submersible sunk (DPRK crew only),5,0,1,CSIS; NTI
+1999,L,L-b,15 Jun first Yeonpyeong naval battle between regular naval units; DPRK fatalities,3,0,0,CSIS
+2000,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+2001,T,T-events,nuclear tests 0; ballistic missiles/SLVs 0; CSIS events 5,5,0,0,CSIS; NTI
+2002,L,L-a,29 Jun second Yeonpyeong naval battle; six ROK sailors killed,1,0,0,CSIS; CRS
+2003,T,T-events,nuclear tests 0; ballistic missiles/SLVs 0; CSIS events 11,11,0,0,CSIS; NTI
+2004,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+2005,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+2006,T,T-nuclear,nuclear tests 1; ballistic missiles/SLVs 7; CSIS events 3,3,1,7,CSIS; NTI
+2007,P,P,CSIS events 3; ballistic missiles/SLVs 0,3,0,0,CSIS; NTI
+2008,P,P,CSIS events 3; ballistic missiles/SLVs 0,3,0,0,CSIS; NTI
+2009,L,L-b,10 Nov Daecheong naval engagement; one DPRK sailor killed,10,1,8,CSIS
+2010,L,L-a,26 Mar Cheonan sinking (46 ROK sailors killed); 23 Nov Yeonpyeong shelling,8,0,0,CSIS
+2011,P,P,CSIS events 1; ballistic missiles/SLVs 0,1,0,0,CSIS; NTI
+2012,P,P,CSIS events 3; ballistic missiles/SLVs 2,3,0,2,CSIS; NTI
+2013,T,T-nuclear,nuclear tests 1; ballistic missiles/SLVs 6; CSIS events 6,6,1,6,CSIS; NTI
+2014,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 19; CSIS events 21; exchanges of fire without deaths,21,0,19,CSIS; NTI
+2015,T,T-missiles,"nuclear tests 0; ballistic missiles/SLVs 15; CSIS events 12; landmine (two ROK soldiers maimed, none killed); artillery exchange without deaths",12,0,15,CSIS; NTI
+2016,T,T-nuclear,nuclear tests 2; ballistic missiles/SLVs 24; CSIS events 25,25,2,24,CSIS; NTI
+2017,T,T-nuclear,nuclear tests 1; ballistic missiles/SLVs 21; CSIS events 19,19,1,21,CSIS; NTI
+2018,P,P,CSIS events 0; ballistic missiles/SLVs 0,0,0,0,CSIS; NTI
+2019,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 27; CSIS events 15,15,0,27,CSIS; NTI
+2020,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 9; CSIS events 6,6,0,9,CSIS; NTI
+2021,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 6; CSIS events 8,8,0,6,CSIS; NTI
+2022,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 69; CSIS events 51,51,0,69,CSIS; NTI
+2023,T,T-missiles,nuclear tests 0; ballistic missiles/SLVs 33; CSIS events 29,29,0,33,CSIS; NTI

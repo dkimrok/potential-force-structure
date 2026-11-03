@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# third-party source databases are not redistributed (see README)
+replication/data/source/

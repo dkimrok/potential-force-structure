@@ -1,0 +1,26 @@
+{
+ "swap_intel_protection_2.0": {
+  "entry": 280,
+  "gap_at_entry": 4.1,
+  "first_gap": 400,
+  "first_war_gap": 265
+ },
+ "swap_intel_protection_8.0": {
+  "entry": 295,
+  "gap_at_entry": 0.0,
+  "first_gap": 240,
+  "first_war_gap": 240
+ },
+ "intel_peace_sust_tension_2.0": {
+  "entry": 240,
+  "gap_at_entry": 8.8,
+  "first_gap": 400,
+  "first_war_gap": 230
+ },
+ "intel_peace_sust_tension_8.0": {
+  "entry": 315,
+  "gap_at_entry": 0.0,
+  "first_gap": 225,
+  "first_war_gap": 220
+ }
+}
