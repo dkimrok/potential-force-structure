@@ -16,7 +16,7 @@ for N, sty, lab in (('365', dict(color='black', ls='-', marker='o', mfc='white')
 for g, dx, dy in ((0, 4, 4), (0.5, 3, 4), (1, 3, 4), (2, 3, 4), (5, 3, 4)):
     p = [q for q in f1['365'] if q[0] == g][0]
     ax.annotate(f'γ={g:g}', (p[1], p[2]), xytext=(p[1] + dx, p[2] + dy), fontsize=10)
-ax.set_xlabel('Transition cost  (thousand persons, weighted)', fontsize=11)
+ax.set_xlabel('Transition cost  (thousand person-equivalents)', fontsize=11)
 ax.set_ylabel('Steady-state cost  (holding + operating, thousand)', fontsize=11)
 ax.set_title('Figure 1. Cost trade-off frontier of the potential structure', fontsize=12)
 ax.grid(True, ls=':', lw=0.6, color='#BBBBBB'); ax.legend(loc='upper right', fontsize=10)
@@ -35,7 +35,7 @@ for ax, (col, title) in zip(axs, spec):
     ax.grid(True, ls=':', lw=0.6, color='#BBBBBB')
     for s in ('top', 'right'): ax.spines[s].set_visible(False)
 axs[2].legend(loc='upper left', frameon=True, fontsize=8.5)
-axs[2].set_xlabel('Army standing-force size N (thousand)')
+axs[2].set_xlabel('Army size N (thousand)')
 axs[2].set_xlim(368, 194)
 axs[2].set_xticks([360, 340, 320, 300, 289, 260, 240, 219, 197.1])
 axs[2].set_xticklabels(['360', '340', '320', '300', '289\n(N₂)', '260', '240', '219\n(N₃)', '197\n(N₄)'])
