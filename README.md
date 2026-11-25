@@ -1,4 +1,4 @@
-# Review artifact: posture ledger and replication code
+# Replication materials: posture ledger and code
 
 **The Potential Force Structure under Demographic Decline: How Full-Scale-War Risk Acceptance Governs the Value of Personnel Flexibility in the ROK Army**
 
